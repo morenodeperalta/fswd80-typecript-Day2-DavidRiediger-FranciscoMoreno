@@ -1,1 +1,0 @@
-# fswd80-typecript-Day2-DavidRiediger-FranciscoMoreno
